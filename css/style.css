@@ -1,0 +1,16 @@
+* { margin:0; padding:0; }
+body { background: #98a4ae; }
+
+.wrap { width:1000px; margin:0 auto; padding-bottom:400px; }
+#top_menu { position: fixed; width:1000px; height:114px; margin:0 auto; text-align:center; top:0px; background: #98a4ae; }
+#top_menu ul {float:right; margin-right:33px;}
+#top_menu ul li { padding:59px 0px 0px 63px; float:left; list-style: none; color: #CCCCCC; }
+#top_menu ul li a { color:#fff; text-decoration:none; }
+#top_menu ul li.on a { color:#000; font-weight:bold; }
+#logo {float:left; width:125px; padding-top:40px; color:#FFFFFF;}
+
+#contents {}
+#contents div {padding-top:114px;}
+#Home {width:100%; height:650px;background:#FFFFFF;}
+#AboutUs {width:100%; height:650px; background:#FFFFFF;}
+#Partners {width:100%; height:700px;background:#FFFFFF; }
